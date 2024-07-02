@@ -9,26 +9,19 @@ https://www.kaggle.com/datasets/rabieelkharoua/students-performance-dataset
 
 ## Table of Contents
 Student Information
-
 Student ID
-
 Demographic Details
-
 Study Habits
-
 Parental Involvement
-
 Extracurricular Activities
-
 Academic Performance
-
 Target Variable: Grade Class
 
-#### Student Information
+## Student Information
 Student ID
 StudentID: A unique identifier assigned to each student (1001 to 3392).
 
-#### Demographic Details
+## Demographic Details
 
 Age: The age of the students ranges from 15 to 18 years.
 Gender: Gender of the students, where 0 represents Male and 1 represents Female.
