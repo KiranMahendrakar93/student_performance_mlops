@@ -7,14 +7,21 @@ Given the details of students' demographics, study habits, parental involvement,
 ## Dataset
 https://www.kaggle.com/datasets/rabieelkharoua/students-performance-dataset
 
-### Table of Contents
+## Table of Contents
 Student Information
+
 Student ID
+
 Demographic Details
+
 Study Habits
+
 Parental Involvement
+
 Extracurricular Activities
+
 Academic Performance
+
 Target Variable: Grade Class
 
 #### Student Information
